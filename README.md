@@ -14,7 +14,7 @@ Libraries used
 
 
 Charts used for Visualization
-*Pie chart
+*Pie chart(Donut)
 *Violin plot
 *line plot
 *count plot
